@@ -1,0 +1,15 @@
+d62a580bd64471accab4c44659542028 *DESCRIPTION
+7dfe36571bcd2c4a0c7da4a4a2e7c513 *NAMESPACE
+45e0b49165ad640ce27cc21a3cfd503b *R/hbbrAugFit.R
+70263c93dfe506518f37df38afcca72e *R/hbbrAugResponseSim.R
+487feb4d01dfc794084a5156a6727a15 *R/hbbrFit.R
+9e6bb8395d8a257a75a2431709714a5b *R/hbbrInit.R
+baff01d7f9046ff4e464630311f9132f *R/hbbrPilotResponse.R
+649f9ccb28dbaefcece031bc6b5dcba9 *data/hbbrPilotResp.RData
+5a18b33f4c1a5a294312708f9ada9df9 *data/simAugData.RData
+44cd39e28161e651baae1fcc6ab30e28 *man/hbbr.Fit.Rd
+83c5601c1d8db3e7b5eb49ae004edd6e *man/hbbrAug.Fit.Rd
+7ff4b6d89b44c1be8ddea8f4612bff56 *man/hbbrPilotResp.Rd
+a56acd176d6bf80c4560f7d1d17086ed *man/simAugData.Rd
+ab1143698c34884c0089b3fb499508b9 *tests/testthat.R
+0e3866f03bc88f65372ea36c9da00215 *tests/testthat/test-hbbrFit.R
